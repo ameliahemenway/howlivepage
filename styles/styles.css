@@ -1,0 +1,14 @@
+h1 {
+    color: lightblue; 
+    font-family: "Bodoni 72";
+    font-size: 20 pt;
+}
+h2 {
+    color: plum;
+    font-family: "Avenir Next";
+    font-family: 15 pt;
+}
+p {
+    font-family: "Avenir Next";
+    font-size: 12 pt;
+}
